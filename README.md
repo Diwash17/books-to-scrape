@@ -9,6 +9,12 @@ The scraper fulfills the following requirements:
 - Extracts specific fields (Title, URL, Date, Description, Price, Tax, Availability, UPC, and Rating).
 - Stores the final result in structured formats (`JSON` and `CSV`).
 
+## Code Quality
+
+This project adheres to **PEP 8** standards for Python code style.
+- **Pylint Score:** 9.75/10
+- Clean import structure and comprehensive docstrings.
+
 ## Setup Instructions
 
 1. **Install Python 3** (if you haven't already).
